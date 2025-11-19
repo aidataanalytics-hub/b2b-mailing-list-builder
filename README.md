@@ -1,9 +1,3 @@
-
----
-
-# ✅ **3) `b2b-mailing-list-builder/README.md`**
-
-```md
 # B2B Mailing List Builder & Domain Intelligence Scanner
 
 A modular tool designed to generate accurate **B2B mailing lists** using domain analysis and business intelligence. Useful for teams that rely on **B2B lead generation**, **prospecting**, and structured mailing lists.
